@@ -1,0 +1,15 @@
+{
+  "name": "lawnmower",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@turf/turf": "^6.5.0",
+    "esbuild": "^0.15.10"
+  }
+}
