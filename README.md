@@ -15,3 +15,5 @@ create a new version of the file which will be availale in
 
 The build uses [`esbuild`](https://esbuild.github.io/), bundler
 executed via the [`build.mjs`](build.mjs) script.
+
+![Clip art image of a lawnmower](https://openclipart.org/image/2400px/svg_to_png/195032/lawnmower.png)
