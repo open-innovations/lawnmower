@@ -5,4 +5,5 @@ export {
   area,
   center,
   intersect,
+  dissolve,
 } from "@turf/turf";
