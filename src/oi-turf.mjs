@@ -6,4 +6,5 @@ export {
   center,
   intersect,
   dissolve,
+  polygon,
 } from "@turf/turf";
