@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@turf/turf": "^6.5.0",
-    "esbuild": "^0.15.10"
+    "esbuild": "^0.15.10",
+    "terser": "^5.15.1"
   }
 }
