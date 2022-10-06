@@ -23,7 +23,7 @@ Promise.all(result.outputFiles.map((out) => {
   return minify(content, {
     sourceMap: false,
     compress: {
-      booleans_as_integers: true,
+      booleans_as_integers: false, // Causes issues with turf if true
       // drop_console: true,
       passes: 2,
     },
