@@ -7,4 +7,5 @@ export {
   intersect,
   dissolve,
   polygon,
+  simplify,
 } from "@turf/turf";
