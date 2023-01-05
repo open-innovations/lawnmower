@@ -8,4 +8,5 @@ export {
   dissolve,
   polygon,
   simplify,
+  pointsWithinPolygon,
 } from "@turf/turf";
