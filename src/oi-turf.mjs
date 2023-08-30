@@ -2,5 +2,7 @@
 export {
   area,
   bbox,
+  bboxPolygon,
+  pointsWithinPolygon,
   intersect
 } from "@turf/turf";
