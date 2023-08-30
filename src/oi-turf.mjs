@@ -3,6 +3,8 @@ export {
   area,
   bbox,
   bboxPolygon,
+  points,
+  polygon,
   pointsWithinPolygon,
   intersect
 } from "@turf/turf";
